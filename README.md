@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Hongjuan 👋</h1>
 <h3 align="center">Software Engineer · C/C++ · Embedded & Systems Engineering</h3>
 
----
 ## 📌 Projects I am working on
 
 ➡️ [Project 1: QEMU Instrumentation](https://github.com/xxxx)  

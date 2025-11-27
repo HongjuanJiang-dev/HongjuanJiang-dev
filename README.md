@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="YOUR_HOME_PAGE_URL">🌐 Portfolio</a> •
-  <a href="https://github.com/HongjuanJiang-dev">GitHub</a> •
   <a href="https://www.linkedin.com/in/hongjuan-jiang/">LinkedIn</a>
 </p>
 
@@ -30,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/stmicroelectronics/stmicroelectronics-icon.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/1/1b/20211014082219%21ST_logo_2020_blue_V.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width="40" height="40"/>

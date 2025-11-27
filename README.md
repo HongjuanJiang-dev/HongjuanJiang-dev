@@ -34,8 +34,7 @@ My focus areas include:
 
 I enjoy working on complex technical problems where correctness, performance, and reliability matter.
 
-I’m excited by the intersection of **low-level engineering + large-scale systems**, and I bring a  
-strong problem-solving mindset to environments where performance and reliability matter.
+I’m excited by the intersection of **low-level engineering + large-scale systems**, and I bring a strong problem-solving mindset to environments where performance and reliability matter.
 
 ---
 <!--

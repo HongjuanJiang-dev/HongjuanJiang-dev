@@ -60,6 +60,7 @@ I’m excited by the intersection of **low-level engineering + large-scale syste
 strong problem-solving mindset to environments where performance and reliability matter.
 
 ---
+<!--
 
 ### 📊 GitHub Stats  
 
@@ -76,7 +77,7 @@ strong problem-solving mindset to environments where performance and reliability
 </p>
 
 ---
-
+-->
 ### 📬 Contact  
 
 - Email: **jianghongjuan1996@gmail.com**  

@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Hongjuan 👋</h1>
 <h3 align="center">Software Engineer · C/C++ · Embedded & Systems Engineering</h3>
 
-<p align="center">
-  <a href="YOUR_HOME_PAGE_URL">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/hongjuan-jiang/">LinkedIn</a>
-</p>
-
 ---
 ## 📌 Projects I am working on
 

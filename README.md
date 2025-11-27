@@ -61,8 +61,6 @@ strong problem-solving mindset to environments where performance and reliability
 
 ---
 
----
-
 ### 📊 GitHub Stats
 
 <p>

@@ -9,7 +9,6 @@
 ## 📌 Projects I am working on
 
 ➡️ [Project 1: QEMU Instrumentation](https://github.com/HongjuanJiang-dev/qemu-tcg-os-instrumentation)  
-➡️ [Project 2: Inverse Kinematics Solver for 3-DOF Planar Robot](https://github.com/HongjuanJiang-dev/ik_task)
 
 ---
 

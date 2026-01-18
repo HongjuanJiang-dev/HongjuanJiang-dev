@@ -8,7 +8,7 @@
 
 ## 📌 Projects I am working on
 
-➡️ [Project 1: QEMU Instrumentation](https://github.com/HongjuanJiang-dev/qemu-tcg-os-instrumentation)  
+➡️ [QEMU Instrumentation](https://github.com/HongjuanJiang-dev/qemu-tcg-os-instrumentation)  
 
 ---
 
